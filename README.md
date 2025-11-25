@@ -1,0 +1,2 @@
+# An-Excel-Dashboard-Self-Help-Groups-SHGs-of-Madhya-Pradesh
+Over the past few days, I’ve been working on building an interactive Excel dashboard that visualizes key insights into Self Help Groups (SHGs) across Madhya Pradesh. The goal was to analyze and communicate how SHGs are distributed, where participation is strong or weak, and how caste-wise member composition plays a role at the grassroots level.
